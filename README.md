@@ -1,4 +1,4 @@
-# Quasar + Hello.js
+# Quasar + Hello.js + Facebook
 
 ![](https://github.com/patrickmonteiro/quasar-hello-auth/blob/master/docs/QuasarProject.png?raw=true)
 
